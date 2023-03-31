@@ -1,0 +1,23 @@
+Library se conforma de las siguientes tecnologías
+Frameworks
+Front-End
+- Vue Js v2.6.14
+- Vuetify v2.6.2
+
+Backend
+- CodeIgniter v3.1.11
+
+Base de datos
+MySQL
+Nombre DB: test
+
+Nota: Para modificar las credenciales de la base de datos
+controlEscolar/application/config/database.php
+'username' => 'USER_DB'
+'password' => 'PASSWORD'
+'database' => 'DATABASE_NAME'
+
+
+url de acceso
+http://localhost/library/
+Nota: Importante respetar el nombre del proyecto [library] y la Url
